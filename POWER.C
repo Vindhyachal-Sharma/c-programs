@@ -1,4 +1,7 @@
-//program to print power//
+/* Student Name:- Vindhyachal Radheshyam Sharma
+Program to print POWER of the given number. */
+
+
 #include<stdio.h>
 #include<conio.h>
 int main()
