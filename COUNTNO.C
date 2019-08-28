@@ -1,3 +1,7 @@
+/* Student Name:- Vindhyachal Radheshyam Sharma
+Program to print number of digit of the given number. */
+
+
 #include<stdio.h>
 #include<conio.h>
 int main()
