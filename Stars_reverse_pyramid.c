@@ -13,9 +13,11 @@ int main()
 {
 int i,j,k;
 clrscr();
-for(i=5;i>=1;i--)
+printf("Enter the no of rows of stars to be printed");
+scanf("%d",&n);	
+for(i=n;i>=1;i--)
 {
-	for(j=5;j>i;j--)
+	for(j=n;j>i;j--)
 	{
 		printf(" ");
 	}
